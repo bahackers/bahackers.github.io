@@ -3,8 +3,9 @@
 <title>Bah! Hackers Security Group</title>
 <style>
 body {
-    color: #fff;
+    color: #0f0;
     background-color: #000;
+    font-family: "Courier New", Courier, monospace;
 }
 
 #wrap {
@@ -18,15 +19,35 @@ body {
     position: relative;
     left: -50%;
 }
-a:link{
-color:#fff;
+a:link, a:visited {
+    color: #0f0;
+    font-weight: bold;
 }
 a:hover{
-color:#fff;
+color: #fff;
 font-weight: bold;
 }
-a:visited{
-color:#fff;
+blink, .blink {
+  -webkit-animation: blink 1.25s step-end infinite;
+  -moz-animation: blink 1.25s step-end infinite;
+  -o-animation: blink 1.25s step-end infinite;
+  animation: blink 1.25s step-end infinite;
+}
+
+@-webkit-keyframes blink {
+  67% { opacity: 0 }
+}
+
+@-moz-keyframes blink {
+  67% { opacity: 0 }
+}
+
+@-o-keyframes blink {
+  67% { opacity: 0 }
+}
+
+@keyframes blink {
+  67% { opacity: 0 }
 }
 </style>
 <head>
@@ -61,7 +82,7 @@ color:#fff;
 <div id="wrap" style="padding-top: 30px;">
 <div id="content" style="text-align: center">
 You can find us in <a href="http://webchat.freenode.net/?channels=bahackers">#bahackers</a> on <a href="http://freenode.org">irc.freenode.org</a>.<br><br><br>
-Porto Alegre - RS
+Porto Alegre - RS <span class="blink">&#x220e;</span>
 </div>
 </div>
 </body>
