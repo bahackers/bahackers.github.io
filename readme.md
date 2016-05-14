@@ -14,6 +14,8 @@ nickname | email | PGP fingerprint
 [andressaruy](https://github.com/andressaruy) | NA                               | NA
 [arsaccol](https://github.com/arsaccol)       | NA                               | NA
 [caiorrs](https://github.com/caiorrs)         | NA                               | NA
+[Catafrato](https://github.com/Catafrato)     | NA                               | NA
+[Dkmister](https://github.com/Dkmister)       | NA                               | NA
 [Dujour](https://github.com/Dujour)           | NA                               | NA
 [ftfetter](https://github.com/ftfetter)       | NA                               | NA
 [gutobenn](https://github.com/gutobenn)       | NA                               | NA
@@ -23,6 +25,8 @@ nickname | email | PGP fingerprint
 [leormarqs](https://github.com/leormarqs)     | NA                               | NA
 [nrzimmer](https://github.com/nrzimmer)       | nrzimmer at gmail dot com        | 9D72 98FF 1928 F4DD 51D2  A41F 82D1 2D02 A5E2 E3B8
 [pfvscheffer](https://github.com/pfvscheffer) | NA                               | NA
+[vsgirelli](https://github.com/vsgirelli)     | NA                               | NA
+[zcarthur](https://github.com/zcarthur)       | NA                               | NA
 
 ## What is the processo to join the group
 
