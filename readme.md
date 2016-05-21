@@ -28,6 +28,6 @@ nickname | email | PGP fingerprint
 [vsgirelli](https://github.com/vsgirelli)     | NA                                 | NA
 [zcarthur](https://github.com/zcarthur)       | NA                                 | NA
 
-## What is the processo to join the group
+## What is the process to join the group
 
 work in progress
